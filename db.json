@@ -3,17 +3,17 @@
     {
       "id": "Y1111111A",
       "name": "Ilsen Luna",
-      "placeId": "Place1"
+      "placeId": "4693138"
     },
     {
       "id": "Y1111111B",
       "name": "Joan Temprano",
-      "placeId": "Place2"
+      "placeId": "5076"
     },
     {
       "id": "Y1111111C",
       "name": "Prueba 1",
-      "placeId": "Place3"
+      "placeId": "00009"
     }
   ],
   "votingPlace": [
@@ -21,7 +21,7 @@
       "id": "00001",
       "name": "Place 1",
       "city": "Barcelona",
-      "postal-code": "08017",
+      "postalCode": "08017",
       "address": "Carrer Marquesa de Vilallonga, 19",
       "country": "Spain"
     },
@@ -29,7 +29,7 @@
       "id": "00002",
       "name": "Place 2",
       "city": "Barcelona",
-      "postal-code": "08004",
+      "postalCode": "08004",
       "address": "Carrer Planella, 23",
       "country": "Spain"
     },
@@ -37,7 +37,7 @@
       "id": "00003",
       "name": "Place 3",
       "city": "Barcelona",
-      "postal-code": "08003",
+      "postalCode": "08003",
       "address": "Carrer Major de Sarria, 12",
       "country": "Spain"
     },
@@ -45,7 +45,7 @@
       "id": "00004",
       "name": "Place 4",
       "city": "Barcelona",
-      "postal-code": "08002",
+      "postalCode": "08002",
       "address": "Carrer d' Angli, 4",
       "country": "Spain"
     },
@@ -53,7 +53,7 @@
       "id": "00005",
       "name": "Place 5",
       "city": "Barcelona",
-      "postal-code": "08002",
+      "postalCode": "08002",
       "address": "Avenida Diagonal, 23",
       "country": "Spain"
     },
@@ -61,7 +61,7 @@
       "id": "00006",
       "name": "Place 6",
       "city": "Barcelona",
-      "postal-code": "08002",
+      "postalCode": "08002",
       "address": "Carrer d'Amigo, 14",
       "country": "Spain"
     },
@@ -69,7 +69,7 @@
       "id": "00007",
       "name": "Place 7",
       "city": "Barcelona",
-      "postal-code": "08001",
+      "postalCode": "08001",
       "address": "Carrer de Paris, 8",
       "country": "Spain"
     },
@@ -77,7 +77,7 @@
       "id": "0008",
       "name": "Escola Arc Iris",
       "city": "Barcelona",
-      "postal-code": "08032",
+      "postalCode": "08032",
       "address": "Carrer de l'Arc de Sant Martí, 78",
       "country": "Spain"
     },
@@ -85,7 +85,7 @@
       "id": "00009",
       "name": "Escola Aiguamarina",
       "city": "Barcelona",
-      "postal-code": "08042",
+      "postalCode": "08042",
       "address": "Carrer Casals i Cuberó, s/n",
       "country": "Spain"
     },
@@ -93,7 +93,7 @@
       "id": "176850",
       "name": "Colegio Público Adolfo Suárez",
       "city": "MADRID",
-      "postal-code": "28050",
+      "postalCode": "28050",
       "address": "CALLE INFANTA CATALINA MICAELA 31",
       "country": "Spain"
     },
@@ -101,7 +101,7 @@
       "id": "5075",
       "name": "Colegio Público Agustina Díez",
       "city": "MADRID",
-      "postal-code": "28038",
+      "postalCode": "28038",
       "address": "CALLE VESUBIO 5",
       "country": "Spain"
     },
@@ -109,7 +109,7 @@
       "id": "4693138",
       "name": "Colegio Público Agustín Rodriguez Sahagún",
       "city": "MADRID",
-      "postal-code": "28031",
+      "postalCode": "28031",
       "address": "CALLE LA GRANJA DE SAN ILDEFONSO 17",
       "country": "Spain"
     },
@@ -117,7 +117,7 @@
       "id": "5076",
       "name": "Colegio Público Alberto Alcocer",
       "city": "MADRID",
-      "postal-code": "28022",
+      "postalCode": "28022",
       "address": "AVENIDA CANILLEJAS A VICALVARO 56",
       "country": "Spain"
     },
@@ -125,7 +125,7 @@
       "id": "5077",
       "name": "Colegio Público Alcalde de Móstoles",
       "city": "MADRID",
-      "postal-code": "28044",
+      "postalCode": "28044",
       "address": "CALLE ALDEANUEVA DE LA VERA 9",
       "country": "Spain"
     },
@@ -133,7 +133,7 @@
       "id": "5078",
       "name": "Colegio Público Alfonso X El Sabio",
       "city": "MADRID",
-      "postal-code": "28032",
+      "postalCode": "28032",
       "address": "CALLE FUENTE DE SAN PEDRO 6",
       "country": "Spain"
     },
@@ -141,7 +141,7 @@
       "id": "10770379",
       "name": "Colegio Público Alfredo di Stefano",
       "city": "MADRID",
-      "postal-code": "28022",
+      "postalCode": "28022",
       "address": "calle felix candela 4",
       "country": "Spain"
     },
@@ -149,7 +149,7 @@
       "id": "5079",
       "name": "Colegio Público Alhambra",
       "city": "MADRID",
-      "postal-code": "28035",
+      "postalCode": "28035",
       "address": "CALLE RAMON GOMEZ DE LA SERNA 103",
       "country": "Spain"
     },
@@ -157,7 +157,7 @@
       "id": "5080",
       "name": "Colegio Público Amadeo Vives",
       "city": "MADRID",
-      "postal-code": "28047",
+      "postalCode": "28047",
       "address": "CALLE LOS YEBENES 6",
       "country": "Spain"
     },
@@ -165,7 +165,7 @@
       "id": "5081",
       "name": "Colegio Público Amador de los Ríos",
       "city": "MADRID",
-      "postal-code": "28028",
+      "postalCode": "28028",
       "address": "PASEO MARQUES DE ZAFRA 16",
       "country": "Spain"
     },
@@ -173,7 +173,7 @@
       "id": "5083",
       "name": "Colegio Público Amós Acero",
       "city": "MADRID",
-      "postal-code": "28053",
+      "postalCode": "28053",
       "address": "CALLE RODRIGUEZ ESPINOSA 54",
       "country": "Spain"
     }
