@@ -118,57 +118,64 @@
       "name": "Colegio Público Alberto Alcocer",
       "city": "MADRID",
       "postal-code": "28022",
-      "address": "AVENIDA CANILLEJAS A VICALVARO 56"
+      "address": "AVENIDA CANILLEJAS A VICALVARO 56",
+      "country": "Spain"
     },
     {
       "id": "5077",
       "name": "Colegio Público Alcalde de Móstoles",
       "city": "MADRID",
       "postal-code": "28044",
-      "address": "CALLE ALDEANUEVA DE LA VERA 9"
+      "address": "CALLE ALDEANUEVA DE LA VERA 9",
+      "country": "Spain"
     },
     {
       "id": "5078",
       "name": "Colegio Público Alfonso X El Sabio",
       "city": "MADRID",
       "postal-code": "28032",
-      "address": "CALLE FUENTE DE SAN PEDRO 6"
+      "address": "CALLE FUENTE DE SAN PEDRO 6",
+      "country": "Spain"
     },
     {
       "id": "10770379",
       "name": "Colegio Público Alfredo di Stefano",
       "city": "MADRID",
       "postal-code": "28022",
-      "address": "calle felix candela 4"
+      "address": "calle felix candela 4",
+      "country": "Spain"
     },
     {
       "id": "5079",
       "name": "Colegio Público Alhambra",
       "city": "MADRID",
       "postal-code": "28035",
-      "address": "CALLE RAMON GOMEZ DE LA SERNA 103"
+      "address": "CALLE RAMON GOMEZ DE LA SERNA 103",
+      "country": "Spain"
     },
     {
       "id": "5080",
       "name": "Colegio Público Amadeo Vives",
-      "relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=68d8a3f5ca71c010VgnVCM1000000b205a0aRCRD",
       "city": "MADRID",
       "postal-code": "28047",
-      "address": "CALLE LOS YEBENES 6"
+      "address": "CALLE LOS YEBENES 6",
+      "country": "Spain"
     },
     {
       "id": "5081",
       "name": "Colegio Público Amador de los Ríos",
       "city": "MADRID",
       "postal-code": "28028",
-      "address": "PASEO MARQUES DE ZAFRA 16"
+      "address": "PASEO MARQUES DE ZAFRA 16",
+      "country": "Spain"
     },
     {
       "id": "5083",
       "name": "Colegio Público Amós Acero",
       "city": "MADRID",
       "postal-code": "28053",
-      "address": "CALLE RODRIGUEZ ESPINOSA 54"
+      "address": "CALLE RODRIGUEZ ESPINOSA 54",
+      "country": "Spain"
     }
   ]
 }
