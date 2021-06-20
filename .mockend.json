@@ -1,7 +1,8 @@
 {
   "Voter": {
     "id": "string",
-    "place": "VotingPlace"
+    "name": "string",
+    "votingPlace": "VotingPlace"
   },
   "VotingPlace": {
     "id": "string",
