@@ -1,12 +1,38 @@
 {
   "voter": [
     {
+      "id": "Y1111111A",
+      "name": "Ilsen Luna",
+      "placeId": 1
+    },
+    {
+      "id": "Y1111111B",
+      "name": "Joan Temprano",
+      "placeId": 2
+    }
+  ],
+  "votingPlace": [
+    {
+      "id": "1",
+      "addressId": 1
+    },
+    {
+      "id": "2",
+      "addressId": 2
+    }
+  ],
+  "address": [
+    {
       "id": 1,
-      "name": "Ilsen Luna"
+      "street": "Name street",
+      "number": "1",
+      "city": "Barcelona"
     },
     {
       "id": 2,
-      "name": "Joan Temprano"
+      "street": "Name street 2",
+      "number": "2",
+      "city": "Barcelona"
     }
   ]
 }
