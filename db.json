@@ -3,36 +3,84 @@
     {
       "id": "Y1111111A",
       "name": "Ilsen Luna",
-      "placeId": 1
+      "placeId": "Place1"
     },
     {
       "id": "Y1111111B",
       "name": "Joan Temprano",
-      "placeId": 2
+      "placeId": "Place2"
+    },
+    {
+      "id": "Y1111111C",
+      "name": "Prueba 1",
+      "placeId": "Place3"
     }
   ],
   "votingPlace": [
     {
-      "id": "1",
-      "addressId": 1
+      "id": "Place1",
+      "street": "Carrer Marquesa de Vilallonga",
+      "number": "19",
+      "city": "Barcelona",
+      "country": "Spain"
     },
     {
-      "id": "2",
-      "addressId": 2
-    }
-  ],
-  "address": [
-    {
-      "id": 1,
-      "street": "Name street",
-      "number": "1",
-      "city": "Barcelona"
+      "id": "Place2",
+      "street": "Carrer Planella",
+      "number": "23",
+      "city": "Barcelona",
+      "country": "Spain"
     },
     {
-      "id": 2,
-      "street": "Name street 2",
-      "number": "2",
-      "city": "Barcelona"
+      "id": "Place3",
+      "street": "Carrer Major de Sarria",
+      "number": "12",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "id": "Place4",
+      "street": "Carrer d' Angli",
+      "number": "4",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "id": "Place5",
+      "street": "Avenida Diagonal",
+      "number": "23",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "id": "Place6",
+      "street": "Carrer d'Amigo",
+      "number": "14",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "id": "Place7",
+      "street": "Carrer de Paris",
+      "number": "8",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "id": "Escola Arc Iris",
+      "street": "Carrer de l'Arc de Sant Martí",
+      "number": "78",
+      "postalCode": "08032",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    {
+      "id": "Escola Aiguamarina",
+      "street": "Carrer Casals i Cuberó",
+      "number": "s/n",
+      "postalCode": "08042",
+      "city": "Barcelona",
+      "country": "Spain"
     }
   ]
 }
