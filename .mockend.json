@@ -1,13 +1,14 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "Voter": {
+    "id": "string",
+    "place": "VotingPlace"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "VotingPlace": {
+    "id": "string",
+    "address": "Address"
+  },
+  "Address": {
+    "id": "string",
+    "street": "string"
   }
 }
