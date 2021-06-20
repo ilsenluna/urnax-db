@@ -18,69 +18,157 @@
   ],
   "votingPlace": [
     {
-      "id": "Place1",
-      "street": "Carrer Marquesa de Vilallonga",
-      "number": "19",
+      "id": "00001",
+      "name": "Place 1",
       "city": "Barcelona",
+      "postal-code": "08017",
+      "address": "Carrer Marquesa de Vilallonga, 19",
       "country": "Spain"
     },
     {
-      "id": "Place2",
-      "street": "Carrer Planella",
-      "number": "23",
+      "id": "00002",
+      "name": "Place 2",
       "city": "Barcelona",
+      "postal-code": "08004",
+      "address": "Carrer Planella, 23",
       "country": "Spain"
     },
     {
-      "id": "Place3",
-      "street": "Carrer Major de Sarria",
-      "number": "12",
+      "id": "00003",
+      "name": "Place 3",
       "city": "Barcelona",
+      "postal-code": "08003",
+      "address": "Carrer Major de Sarria, 12",
       "country": "Spain"
     },
     {
-      "id": "Place4",
-      "street": "Carrer d' Angli",
-      "number": "4",
+      "id": "00004",
+      "name": "Place 4",
       "city": "Barcelona",
+      "postal-code": "08002",
+      "address": "Carrer d' Angli, 4",
       "country": "Spain"
     },
     {
-      "id": "Place5",
-      "street": "Avenida Diagonal",
-      "number": "23",
+      "id": "00005",
+      "name": "Place 5",
       "city": "Barcelona",
+      "postal-code": "08002",
+      "address": "Avenida Diagonal, 23",
       "country": "Spain"
     },
     {
-      "id": "Place6",
-      "street": "Carrer d'Amigo",
-      "number": "14",
+      "id": "00006",
+      "name": "Place 6",
       "city": "Barcelona",
+      "postal-code": "08002",
+      "address": "Carrer d'Amigo, 14",
       "country": "Spain"
     },
     {
-      "id": "Place7",
-      "street": "Carrer de Paris",
-      "number": "8",
+      "id": "00007",
+      "name": "Place 7",
       "city": "Barcelona",
+      "postal-code": "08001",
+      "address": "Carrer de Paris, 8",
       "country": "Spain"
     },
     {
-      "id": "Escola Arc Iris",
-      "street": "Carrer de l'Arc de Sant Martí",
-      "number": "78",
-      "postalCode": "08032",
+      "id": "0008",
+      "name": "Escola Arc Iris",
       "city": "Barcelona",
+      "postal-code": "08032",
+      "address": "Carrer de l'Arc de Sant Martí, 78",
       "country": "Spain"
     },
     {
-      "id": "Escola Aiguamarina",
-      "street": "Carrer Casals i Cuberó",
-      "number": "s/n",
-      "postalCode": "08042",
+      "id": "00009",
+      "name": "Escola Aiguamarina",
       "city": "Barcelona",
+      "postal-code": "08042",
+      "address": "Carrer Casals i Cuberó, s/n",
       "country": "Spain"
+    },
+    {
+      "id": "176850",
+      "name": "Colegio Público Adolfo Suárez",
+      "city": "MADRID",
+      "postal-code": "28050",
+      "address": "CALLE INFANTA CATALINA MICAELA 31",
+      "country": "Spain"
+    },
+    {
+      "id": "5075",
+      "name": "Colegio Público Agustina Díez",
+      "city": "MADRID",
+      "postal-code": "28038",
+      "address": "CALLE VESUBIO 5",
+      "country": "Spain"
+    },
+    {
+      "id": "4693138",
+      "name": "Colegio Público Agustín Rodriguez Sahagún",
+      "city": "MADRID",
+      "postal-code": "28031",
+      "address": "CALLE LA GRANJA DE SAN ILDEFONSO 17",
+      "country": "Spain"
+    },
+    {
+      "id": "5076",
+      "name": "Colegio Público Alberto Alcocer",
+      "city": "MADRID",
+      "postal-code": "28022",
+      "address": "AVENIDA CANILLEJAS A VICALVARO 56"
+    },
+    {
+      "id": "5077",
+      "name": "Colegio Público Alcalde de Móstoles",
+      "city": "MADRID",
+      "postal-code": "28044",
+      "address": "CALLE ALDEANUEVA DE LA VERA 9"
+    },
+    {
+      "id": "5078",
+      "name": "Colegio Público Alfonso X El Sabio",
+      "city": "MADRID",
+      "postal-code": "28032",
+      "address": "CALLE FUENTE DE SAN PEDRO 6"
+    },
+    {
+      "id": "10770379",
+      "name": "Colegio Público Alfredo di Stefano",
+      "city": "MADRID",
+      "postal-code": "28022",
+      "address": "calle felix candela 4"
+    },
+    {
+      "id": "5079",
+      "name": "Colegio Público Alhambra",
+      "city": "MADRID",
+      "postal-code": "28035",
+      "address": "CALLE RAMON GOMEZ DE LA SERNA 103"
+    },
+    {
+      "id": "5080",
+      "name": "Colegio Público Amadeo Vives",
+      "relation": "http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextoid=68d8a3f5ca71c010VgnVCM1000000b205a0aRCRD",
+      "city": "MADRID",
+      "postal-code": "28047",
+      "address": "CALLE LOS YEBENES 6"
+    },
+    {
+      "id": "5081",
+      "name": "Colegio Público Amador de los Ríos",
+      "city": "MADRID",
+      "postal-code": "28028",
+      "address": "PASEO MARQUES DE ZAFRA 16"
+    },
+    {
+      "id": "5083",
+      "name": "Colegio Público Amós Acero",
+      "city": "MADRID",
+      "postal-code": "28053",
+      "address": "CALLE RODRIGUEZ ESPINOSA 54"
     }
   ]
 }
